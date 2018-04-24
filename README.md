@@ -1,7 +1,7 @@
 # Python tanfolyam
 
 Házi feladat:
-Egy elkezdett programot befejezni. Ez egy crawler, ami magyar username szótárat állít elő egy magyar híroldal felhasználóiból.
+A homework.py programot befejezni. Ez egy crawler, ami magyar username szótárat állít elő egy magyar híroldal felhasználóiból.
 Követelmények:
 - A kész programot 1 héten belül feltölteni a saját githubodra új nyilvános projektként, nekem a linket elküldeni mailben
 - A program fusson le
