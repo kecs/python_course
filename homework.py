@@ -82,7 +82,7 @@ def get_usernames_from_comments(link):
     resp = requests.get(BASE_URL_DISQUS.format(urllib.parse.quote(link, safe='')),
                         cookies=COOKIES)
 
-    # Find usernames with regular expression
+    # Find usernames with regular expression (server returns json, alternatively you can parse response to json object)
     # TODO: filter out auto generated diqus.com names (the ones that contain "disqus_")
     # http://www.pythonforbeginners.com/basics/list-comprehensions-in-python
     # https://www.analyticsvidhya.com/blog/2015/06/regular-expression-python/
@@ -94,12 +94,12 @@ def main():
 
     for link in get_links_to_entries():
         unames = get_usernames_from_comments(link)
-        usernames.update(set(unames))
+        usernames.update(set(unames))   # Convert list to set, and add it to our original set 
 
         print('[*] Found {} usernames for entry'.format(len(unames)))
         
     # Write results to file
-    # TODO: mutate username
+    # TODO: mutate username before write
     with open(OUTPUT_FILE, 'w') as f:
         for username in usernames:
             f.write(username + '\n')
