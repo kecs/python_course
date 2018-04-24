@@ -8,5 +8,5 @@ Követelmények:
 - A program állítson elő egy 1000 soros file-t (users.txt) amiben 1 sor egy felhasználónév
 - Minden felhasználónév legyen mutálva
 - Törekedj tiszta formátumra, kövesd az alap program konvencióit
-- 1 és 5 másodperc közötti értéket alszik két request között, hogy ne tűnjön bot-nak
+- 1 és 10 másodperc közötti értéket alszik két request között, hogy ne tűnjön bot-nak. Kezdd ezzel!
 - Tanácskozni, kérdezni ér, de egymásét ne adjátok be
