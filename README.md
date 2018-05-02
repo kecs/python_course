@@ -19,10 +19,12 @@ Követelmények:
 - Raspberry pi, web, desktop
 - Linux/osx eleve fent van
 - Bytecodre-ra fordul, létezik c/java compiler
+
 Előnyök:
 - Modulok, cummunity
 - Easy to read
 - Punk
+
 Hátrányok:
 - Eltérő syntax
 - Nem enterprise?
@@ -30,6 +32,7 @@ Hátrányok:
 - Többszálúság
 
 IDE?
+
 repl
 -----------------------------------
 -változók
