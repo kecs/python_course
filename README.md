@@ -48,6 +48,9 @@ print(a * 666, b + c, str(a) + '!!!')
 a1 = (1, 2, 3)
 a2 = ("a", "b", "c")
 
+-szótár
+{sztring: érték}
+
 -for, while?
 for v in a1: print(v)
 for i in range(5): print(i * 2)
