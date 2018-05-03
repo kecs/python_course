@@ -67,6 +67,7 @@ g = f
 class C:
 p1 = 69
 p2 = (3.14, 2.71)
+valaminek a valamilye
 oop vs functional
 
 -import
