@@ -67,7 +67,10 @@ g = f
 class C:
 p1 = 69
 p2 = (3.14, 2.71)
+minden objektum
 valaminek a valamilye
+s = "Hello {} world"
+s.format("fucking")
 oop vs functional
 
 -import
