@@ -16,17 +16,18 @@ Követelmények:
 - Interpretált, vm-en fut
 - DE gyors, mert C
 - Általanos célú
+- IT securityben a leggyakoribb szkriptnyelv
 - Raspberry pi, web, desktop
 - Linux/osx eleve fent van
-- Bytecodre-ra fordul, létezik c/java compiler
+- Bytecodre-ra fordul (on demand, nem kell fordítani), létezik c/java compiler (fordítani kell)
 
 Előnyök:
-- Modulok, cummunity
+- Modulok (építőkocka), cummunity
 - Easy to read
 - Punk
 
 Hátrányok:
-- Eltérő syntax
+- Eltérő syntax (identation)
 - Nem enterprise?
 - Deploy
 - Többszálúság
@@ -66,10 +67,13 @@ g = f
 class C:
 p1 = 69
 p2 = (3.14, 2.71)
+oop vs functional
 
 -import
 
 -save/run eg.: python -m http.server 7777
+
+-exceptions
 
 -file ops
 
