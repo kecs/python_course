@@ -39,6 +39,7 @@ repl
 -változók
 a = 69
 b = 420
+v = True or False
 c, d = 13, 42
 s = "hello world"
 print(s)
