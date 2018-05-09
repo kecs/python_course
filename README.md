@@ -36,10 +36,10 @@ IDE?
 
 repl
 -----------------------------------
--változók
+-változók (types, type conversions)
 a = 69
 b = 420
-v = True or False
+v = True or False #what else is false?
 c, d = 13, 42
 s = "hello world"
 print(s)
