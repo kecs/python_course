@@ -42,40 +42,63 @@ repl
 a = 69
 
 b = 420
+
 v = True or False #what else is false?
+
 c, d = 13, 42
+
 s = "hello world"
+
 print(s)
+
 print(a, b, c, d)
+
 print(a * 666, b + c, str(a) + '!!!')
 
 -tömb
+
 a1 = (1, 2, 3)
+
 a2 = ("a", "b", "c")
 
 -szótár
+
 {sztring: érték}
 
 -for, while?
+
 for v in a1: print(v)
+
 for i in range(5): print(i * 2)
 
+
 -function
+
 def f(v1, v2=666):
+
 print(v1)
+
 print(v2)
 
 g = f
 
 -class?
+
 class C:
+
 p1 = 69
+
 p2 = (3.14, 2.71)
-minden objektum
-valaminek a valamilye
+
+- minden objektum
+
+- valaminek a valamilye
+
 s = "Hello {} world"
+
 s.format("fucking")
-oop vs functional
+
+- oop vs functional
 
 -import
 
