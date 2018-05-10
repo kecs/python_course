@@ -100,9 +100,11 @@ s.format("fucking")
 
 - oop vs functional
 
+save/run eg.: python -m http.server 7777
+
 - import
 
-save/run eg.: python -m http.server 7777
+python -m pip search bs4 --proxy=qhub03.hu.t-internal.com:3128
 
 - exceptions
 
