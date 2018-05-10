@@ -100,6 +100,8 @@ s.format("fucking")
 
 - oop vs functional
 
+- no globals!
+
 save/run eg.: python -m http.server 7777
 
 - import
