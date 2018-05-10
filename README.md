@@ -55,24 +55,24 @@ print(a, b, c, d)
 
 print(a * 666, b + c, str(a) + '!!!')
 
--tömb
+- tömb
 
 a1 = (1, 2, 3)
 
 a2 = ("a", "b", "c")
 
--szótár
+- szótár
 
 {sztring: érték}
 
--for, while?
+- for, while?
 
 for v in a1: print(v)
 
 for i in range(5): print(i * 2)
 
 
--function
+- function
 
 def f(v1, v2=666):
 
@@ -82,7 +82,7 @@ print(v2)
 
 g = f
 
--class?
+- class?
 
 class C:
 
@@ -100,11 +100,11 @@ s.format("fucking")
 
 - oop vs functional
 
--import
+- import
 
--save/run eg.: python -m http.server 7777
+save/run eg.: python -m http.server 7777
 
--exceptions
+- exceptions
 
--file ops
+- file ops
 
