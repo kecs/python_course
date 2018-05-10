@@ -31,13 +31,16 @@ Hátrányok:
 - Nem enterprise?
 - Deploy
 - Többszálúság
+- Sec
 
 IDE?
 
 repl
 -----------------------------------
 -változók (types, type conversions)
+
 a = 69
+
 b = 420
 v = True or False #what else is false?
 c, d = 13, 42
