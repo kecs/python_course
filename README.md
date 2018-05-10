@@ -71,8 +71,9 @@ for v in a1: print(v)
 
 for i in range(5): print(i * 2)
 
+- destructuring clause
 
-- function
+- functions
 
 def f(v1, v2=666):
 
