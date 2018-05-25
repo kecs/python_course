@@ -24,14 +24,14 @@ Követelmények:
 Előnyök:
 - Modulok (építőkocka), cummunity
 - Easy to read
-- Punk
+- Megengedő
+- Sec
 
 Hátrányok:
 - Eltérő syntax (identation)
 - Nem enterprise?
 - Deploy
 - Többszálúság
-- Sec
 
 IDE?
 
